@@ -44,7 +44,6 @@ function rollDice(playerToMove) {
 }
 
 function holdPoints(currentPoint, playerToMove) {
-  //console.log(currentPoints, player);
   if (currentPoint === 0) {
     return;
   }
